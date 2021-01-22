@@ -1,2 +1,2 @@
 # FPS-be-untitled
-the source code of the game
+this is the branch where the docs is stored
